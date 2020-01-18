@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
+  title: 'Blog by Dipo Alokan',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -22,12 +22,16 @@ module.exports = {
     {
       label: 'Contact me',
       path: '/pages/contacts'
+    },
+    {
+      label: 'TroubleShooting',
+      path: '/pages/troubleshooting'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Oladipo Timothy',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Name is Dipo and I am a software Developer that is ready to share his knowledge',
     contacts: {
       email: '',
       facebook: '#',

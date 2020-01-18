@@ -1,10 +1,10 @@
 ---
-title: Perfecting the Art of Perfection
-date: "2016-09-01T23:46:37.121Z"
+title: My First Post
+date: "2020-01-01T23:46:37.121Z"
 template: "post"
 draft: false
-slug: "perfecting-the-art-of-perfection"
-category: "Design Inspiration"
+slug: "Programming-experience"
+category: "Code"
 tags:
   - "Handwriting"
   - "Learning to write"
