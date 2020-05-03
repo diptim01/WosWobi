@@ -30,13 +30,13 @@ module.exports = {
   ],
   author: {
     name: 'Oladipo Timothy',
-    photo: '/photo.jpg',
-    bio: 'Name is Dipo and I am a software Developer that is ready to share his knowledge',
+    photo: '/DipoPhoto.png',
+    bio: 'I\'m Dipo, a Software Developer',
     contacts: {
-      email: '',
-      facebook: '#',
+      email: 'oladipotimohty69@gmail.com',
+      facebook: 'diptim01',
       telegram: '#',
-      twitter: '#',
+      twitter: 'aloksdiptim',
       github: '#',
       rss: '',
       vkontakte: '',
